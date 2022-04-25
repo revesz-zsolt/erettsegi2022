@@ -1,2 +1,2 @@
 mindent fogok
-nincs
+nincs.
